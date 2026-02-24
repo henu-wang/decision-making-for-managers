@@ -2,7 +2,7 @@
 
 > A practical guide for managers to make faster, better decisions — and help their teams do the same.
 
-[![KeepRule](https://img.shields.io/badge/Explore_Scenarios-KeepRule-blue)](https://keeprule.com/en/scenarios)
+[![KeepRule](https://img.shields.io/badge/Explore_Scenarios-KeepRule-blue)](https://keeprule.com)
 
 ## The Manager's Decision Dilemma
 
@@ -111,7 +111,7 @@ Can someone on my team do this?
 
 ## Explore Decision Scenarios
 
-Practice managerial decision-making with real scenarios on **[KeepRule](https://keeprule.com/en/scenarios)** — apply wisdom from the world's greatest leaders and thinkers.
+Practice managerial decision-making with real scenarios on **[KeepRule](https://keeprule.com)** — apply wisdom from the world's greatest leaders and thinkers.
 
 ## Contributing
 
